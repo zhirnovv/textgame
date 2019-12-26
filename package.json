@@ -1,0 +1,29 @@
+{
+  "name": "textgame",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhirnovv/textgame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhirnovv/textgame/issues"
+  },
+  "homepage": "https://github.com/zhirnovv/textgame#readme",
+  "devDependencies": {
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.4",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10",
+    "express": "^4.17.1",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
